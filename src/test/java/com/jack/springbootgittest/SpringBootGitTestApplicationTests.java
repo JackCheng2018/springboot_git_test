@@ -9,6 +9,7 @@ class SpringBootGitTestApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("Just do test");
+        System.out.println("dev operate");
     }
 
 }
